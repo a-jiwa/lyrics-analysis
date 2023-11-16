@@ -64,23 +64,6 @@ data_list = [
     {'text': 'Perry', 'link': 'https://uk-drill.com/perry/'},
     {'text': 'Rayners Lane', 'link': 'https://uk-drill.com/rayners-lane/'},
     {'text': 'Rude Drill Songs', 'link': 'https://uk-drill.com/rude-drill-songs/'},
-    {'text': 'Siraq', 'link': 'https://uk-drill.com/siraq/'},
-    {'text': 'Skengfield/AP', 'link': 'https://uk-drill.com/skengfield-ap/'},
-    {'text': 'Skengz', 'link': 'https://uk-drill.com/skengz/'},
-    {'text': 'Sout', 'link': 'https://uk-drill.com/sout/'},
-    {'text': 'South Reuploads', 'link': 'https://uk-drill.com/south-reuploads/'},
-    {'text': 'TPL Gang', 'link': 'https://uk-drill.com/tpl/'},
-    {'text': 'Tributes', 'link': 'https://uk-drill.com/tributes/'},
-    {'text': 'UK Drill Beats', 'link': 'https://uk-drill.com/beats/'},
-    {'text': 'UK Drill Drum Kits', 'link': 'https://uk-drill.com/beats/uk-drill-drum-kits/'},
-    {'text': 'UK Drill Gang Map', 'link': 'https://uk-drill.com/drill-map/'},
-    {'text': 'UK Drill Slang “cheatsheet”', 'link': 'https://uk-drill.com/slang-cheatsheet/'},
-    {'text': 'V8/Hornsey', 'link': 'https://uk-drill.com/v8-hornsey/'},
-    {'text': 'West', 'link': 'https://uk-drill.com/west/'},
-    {'text': 'West Reuploads', 'link': 'https://uk-drill.com/west-reuploads/'},
-    {'text': 'WGM (WoodGreenMOB)', 'link': 'https://uk-drill.com/wgm-woodgreenmob/'},
-    {'text': '.l', 'link': 'https://uk-drill.com/wgm-woodgreenmob/l/'},
-    {'text': 'Zero Tolerance', 'link': 'https://uk-drill.com/zero-tolerance/'}
 ]
 
 # Create a CSV file to store the scraped data
